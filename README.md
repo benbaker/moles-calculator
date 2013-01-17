@@ -9,5 +9,5 @@ Chemistry app to derive moles and grams of constituent elements from a molecular
 * Commented poorly
 
 
-![My image](/benbaker/Moles-Calculator/master/img/ss1.png)
-![My image](/benbaker/Moles-Calculator/master/img/ss2.png)
+![My image](https://raw.github.com/benbaker/Moles-Calculator/master/img/ss1.png)
+![My image](https://raw.github.com/benbaker/Moles-Calculator/master/img/ss2.png)
