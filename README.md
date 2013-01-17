@@ -1,6 +1,8 @@
 Moles-Calculator
 ================
 
+Jquery, HTML, Bootstrap
+
 Chemistry app to derive moles and grams of constituent elements from a molecular formula. 
 * Great for Chem I & II Students.
 * Clean interface
